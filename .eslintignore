@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+*_3.js
+src/baseframe/plugin/
